@@ -1,0 +1,5 @@
+db.sqlite3
+DjangoPoll/__pycache__/__init__.cpython-311.pyc
+DjangoPoll/__pycache__/settings.cpython-311.pyc
+DjangoPoll/__pycache__/urls.cpython-311.pyc
+DjangoPoll/__pycache__/wsgi.cpython-311.pyc
